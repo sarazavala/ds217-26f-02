@@ -1,0 +1,10 @@
+Cutoff: 140 mmHg
+Reason: This cutoff prioritizes clearly elevated readings while keeping the follow-up list manageable.
+P002
+P006
+P011
+P014
+P018
+P022
+P025
+P028
